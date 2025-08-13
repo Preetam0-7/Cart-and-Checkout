@@ -1,0 +1,70 @@
+.address-list-container {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+}
+
+.address-header {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.add-address-btn {
+  background-color: black;
+  color: white;
+  padding: 0.75rem 1.25rem;
+  border-radius: 9999px;
+  font-weight: 600;
+  margin-bottom: 2rem;
+  border: none;
+  cursor: pointer;
+}
+
+.section-title {
+  font-weight: 600;
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+}
+
+.address-card {
+  background-color: #f7f7f7;
+  padding: 1.5rem;
+  border-radius: 0.5rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.address-content > div {
+  margin-bottom: 0.25rem;
+  font-size: 0.95rem;
+}
+
+.button-group {
+  margin-top: 1rem;
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.button {
+  padding: 0.5rem 1rem;
+  border-radius: 9999px;
+  border: 1px solid #ccc;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.edit-btn {
+  background-color: #f0f0f0;
+}
+
+.delete-btn {
+  background-color: #f8f8f8;
+  color: #333;
+}
+
+.deliver-btn {
+  background-color: #000;
+  color: #fff;
+}
